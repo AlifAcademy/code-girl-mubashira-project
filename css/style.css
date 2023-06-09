@@ -1,0 +1,505 @@
+    /*First page Menu*/
+
+body{
+    margin:0;
+    background-color: pink;
+   
+}
+.container{
+    margin:0px 16px;
+    margin-top: -55px;
+}
+
+.header{
+    background-color: red;
+    height: 100%;
+    border: 5px;
+
+
+}
+.header-line{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    font-family: Monotype Corsiva;
+    font-size: 20px;
+    color: pink;
+    margin-left: 30px;
+    
+}
+
+.nav-item{
+    color:pink;
+    text-decoration: none;
+    font-family: Monotype Corsiva;
+    font-weight: 700;
+    font-size: 30px;
+    margin-right: 65px;
+   
+
+    transition: color 0.3s linear;
+
+}
+
+.nav-item:hover{
+    color:black;
+
+}
+.nav{
+    margin-left: 400px
+}
+
+#cake1{
+    margin-top:30px ;
+    margin-left:700px ;
+    width: 550px;
+    height: 650px;
+    border:15px solid red;
+    border-style:solid;
+    border-radius: 5px;
+
+}
+
+
+#text1{
+    color: red;
+    font-size: 70px;
+    font-family: Monotype Corsiva;
+    margin-left: 80px;
+    margin-top: -490px;
+  }
+
+
+  #text2{
+    color: red;
+    font-size: 70px;
+    font-family: Monotype Corsiva;
+   margin-left: 130px;
+    margin-top: 15px;
+  }
+
+    /*New Page About us*/
+
+  #text3{
+    margin-top: 400px;
+    font-size: 60px;
+    font-family: Monotype Corsiva;
+    color:red;
+    text-align: center;
+  }
+
+  #text4{
+    border: 12px;
+    border-color: black;
+    font-size: 35px;
+    font-family:  Monotype Corsiva;
+    color:rgb(216, 51, 51);
+    margin-top:auto;
+    margin-left: 25px;
+  
+  }
+  
+  
+  .block1{
+    width:300px;
+    height:440px;
+    margin-top: 100px;
+    margin-left:200px;
+  }
+  
+  .block2{
+    width:300px;
+    height:440px;
+    margin-top:-440px;
+    margin-left:530px;
+  }
+
+  .block3{
+    width: 100px;
+    height: 440px;
+    margin-top: -440px;
+    margin-left: 850px;
+
+  }
+  
+  
+  #cake2{
+    border: 10px solid;
+    border-color: red;
+    border-radius: 25px;
+  }
+  #cake3{
+    border: 10px solid;
+    border-color:red;
+    border-radius: 25px;
+  
+  }
+
+  #cake4{
+    border: 10px solid;
+    border-color:red;
+    border-radius: 25px;
+  
+  }
+
+  /* Video starts */
+
+  #text5{
+    font-size: 50px;
+    font-family: Monotype Corsiva ;
+    color:red;
+    margin-left: 480px;
+  }
+
+
+#myVideo{
+  width: 800px;
+  height: auto;
+  border: 15px solid red;
+  border-style:ridge;
+  border-radius: 25px;
+  margin-top: auto;
+  margin-left: 250px;
+}
+
+/*New page Our conditers*/
+
+#text6{
+  text-align:center ;
+  font-size: 50px;
+  font-family: Monotype Corsiva;
+  color:red;
+  margin-top: 150px;
+}
+
+.block4{
+  margin-top: 0;
+  width:300px;
+  height: 400px;
+  margin-left:140px;
+  background: white;
+  border-radius: 20px;
+  border: 6px solid red;
+  background-color: pink;
+}
+
+#pc1{
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+
+#text7{
+  text-align: center;
+  font-size: 30px;
+  font-family: Monotype Corsiva;
+  color: red;
+  margin-top: 5px;
+}
+
+.block5{
+  width: 300px;
+  height: 400px;
+  margin-left: 500px;
+  margin-top: -400px;
+  background: white;
+  border-radius: 20px;
+  border: 6px solid red;
+  background-color: pink;
+ 
+}
+
+#pc2{ 
+  margin-left:20px;
+  margin-top:20px;
+  border-radius: 10px;
+  border: 5px solid red;
+}
+
+#text8{
+  text-align: center;
+  font-size: 30px;
+  font-family: Monotype Corsiva;
+  color: red;
+  margin-top: 5px;
+}
+
+.block6{
+  width:300px;
+  height:400px;
+  margin-left: 850px;
+  margin-top:-400px;
+  background:white;
+  border-radius: 20px;
+  border: 6px solid red;
+  background-color: pink;
+}
+
+#pc3{
+  margin-left:20px;
+  margin-top:20px;
+  border-radius: 10px;
+  border: 5px solid red;
+}
+
+#text9{
+  text-align: center;
+  font-size: 30px;
+  font-family: Monotype Corsiva;
+  color: red;
+  margin-top: 5px;
+}
+
+#text10{
+  text-align: center;
+  font-size: 22px;
+  font-family: Monotype Corsiva;
+  color:rgba(255, 0, 0, 0.589);
+}
+
+#text11{
+  text-align: center;
+  font-size: 22px;
+  font-family: Monotype Corsiva;
+  color:rgba(255, 0, 0, 0.589);
+}
+
+#text12{
+  text-align: center;
+  font-size: 22px;
+  font-family: Monotype Corsiva;
+  color:rgba(255, 0, 0, 0.589);
+ 
+}
+
+       /* CATALOG*/
+          
+#pc4{
+  height: 600px;
+  width: 500px;
+  border: 2px solid red;
+  border-radius: 10px;
+  margin-top:100px;
+  margin-left: 50px;
+}
+
+#text13{
+  font-size: 100px;
+  font-family: Monotype Corsiva;
+  color:red;
+  margin-left: 800px;
+  margin-top: -350px;
+}
+
+/*catalog slider*/
+
+#text14{
+  margin-top: 340px;
+  font-size: 50px;
+  font-family: Monotype Corsiva;
+  color: rgba(224, 7, 7, 0.842);
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.cakesliders {
+  position: relative;
+  border: 12px solid red;
+  border-style: double;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: red(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.number {
+  color:red;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: red;
+  padding: 2px 16px;
+  color: pink;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+#text15{
+  margin-top: 100px;
+  font-size: 50px;
+  font-family: Monotype Corsiva ;
+  color:red;
+  margin-left: 480px;
+
+}
+div.gallery {
+  margin-top:60px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 4px solid red;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.cherry {
+  padding: 15px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Monotype Corsiva;
+  color:red;
+}
+
+/*CONTACTS*/
+
+#text16{
+  margin-top: 500px;
+  text-align: center;
+  font-size: 60px;
+  font-family: Monotype Corsiva;
+  color: red;
+  
+}
+#map1{
+  margin: 40px;
+  width: 350px;
+  height: 300px;
+  border: 4px solid red;
+  border-radius: 6px;
+  margin-left: 250px;
+}
+#text17{
+  font-family: Monotype Corsiva;
+  font-size: 30px;
+  color: red;
+  text-align: center;
+  margin-top: -320px;
+  margin-left: 350px;
+  
+}
+#text18{
+  text-align: center;
+  font-family: Monotype Corsiva;
+  font-size: 30px;
+  color:red;
+  margin-top: 20px;
+  margin-left: 250px;
+
+
+}
+#instagram{
+  width: 90px;
+  height: 90px;
+  margin-left: 650px;
+  margin-top:-15px;
+}
+#text19{
+
+  margin-top: -70px;
+  margin-left: 750px;
+  margin-right: 10px;
+  font-size: 30px;
+  font-family: Monotype Corsiva;
+  color:red;
+ 
+
+}
+#facebook{
+  width: 65px;
+  height: 65px;
+  margin-left: 660px;
+  margin-top: auto;
+}
+
+#text20{
+  margin-top:-50px ;
+  margin-left: 350px;
+  font-size: 30px;
+  font-family: Monotype Corsiva;
+  color:red;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+  
+  
